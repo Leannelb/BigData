@@ -125,7 +125,7 @@ As you watch the lectures, reflect on the following:
 - 10^18 chance of 2 of the same identifiers being assigned and clashing causing an error.
 
 #### Bad Identifier
-- name: female name, course name
+- name: female name, course name - may change
 - Embedded information: collect confidential information (dont do it)
 - remove individuality - dont link the individual
 - de-identification
@@ -137,10 +137,28 @@ As you watch the lectures, reflect on the following:
 - reconnects the personal data
 - uses data identifer
 - entrusting third party
+- uses the data identifier to connect
 
 ### data scrubbbing
+- removes unwanted information
 - starts after deidentification
 - identify the requirement
-- create exception list
-- create inclusion list
+- create exception list - list information that needs to be avoided
+- create inclusion list - list items to be included after the scrubbing. Anything not on the list is deleted.
 ## ch3
+
+
+# 2.2.0: Lesson 2 - Metadata, Classification and Ontologies
+
+From the previous lesson, you have learned that more than 80% of the enterprise data is unstructured. Majority of the data that is handled by Big Data applications are also unstructured. To analyse unstructured data it is vital to provide some structure. Identification techniques will help to uniquely identify each object and establish the relationship between the objects. Even though data identification is the first steps in data management,  identification process alone will not provide any meaning or value to the data object. 
+
+This lesson will be exploring how metadata, classification and ontologies and their role in enhancing the data value and meaning. Metadata can be used to describe the data and provide the context while classification and ontologies can group the data depending on the relationship.
+
+As you watch the lectures, reflect on the following:
+
+    What is metadata and how it is applied to describe big data resources?
+    What is the significance of metadata in Big Data Analytics?
+    Why do we have to group data?
+    How classification and ontologies are applied in big data resources?
+    What are the major challenges in modelling big data resources?
+
