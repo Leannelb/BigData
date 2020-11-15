@@ -162,3 +162,60 @@ As you watch the lectures, reflect on the following:
     How classification and ontologies are applied in big data resources?
     What are the major challenges in modelling big data resources?
 
+# 2.2.1: Metadata, Classification and Ontologies
+
+As the volume of the digital data continue to grow and scattered globally across the enterprise, it is important to describe the data effectively. Appropriate metadata will help to extract the information and understand the context and source.  Appropriate metadata can provide some structure to the unstructured data which is far more flexible than a database structure.
+
+Classification is about grouping data depending on the properties of relationships. Classification shapes the data for better correlation and analysis.  Identifying and selecting appropriate classification model is a huge challenge in big data analytics.
+
+This video provides a brief overview of Metadata, Classification and Ontologies.
+
+As you watch this lecture, reflect on the following:
+
+    What is metadata?
+    Why is it important?
+    How can metadata increase the value of the information?
+    What is classification and ontologies?
+    What are the differences between classification and ontologies?
+    How do you select which approach to follow?
+    What are the challenges in choosing between classification and ontologies?
+
+1. What is metadata?
+- data about data
+- provides descriptive details about data object
+- provides data @ granular level vs Big Data provides overall trends and patterns
+- provides meaning to data object
+- increces value of the data
+- data can be identified and redused for other simiar puroposes
+
+2. XML
+- provides structure and organises into that structure
+- can be exported to other platforms
+- data and meta data pair not assigned to unique data object
+
+3.   Big Data associtions managed using UUID
+- meaniful assersions 
+- triples.
+
+## Classification
+- data has a meaning when associated with other data
+
+1. Big data resources are complex. Must be divided into classes sharing similar properties (group data items)
+2. use relationship
+3. related items have similarities (as a result of the relationships - not random)
+4. **grouping data items on relationship is classification**
+5. **grouping based on similarity is known as clustering.**
+6. iteritive process - identify fundamental properties for relationship, generated from hypothesis, varies and grows.
+7. one parent.
+
+  
+- at top of heiarchy, no parent
+- at bottom, no subclass
+
+## read ch 1- 5 of PRINCIPLES OF BIG DATA Preparing, Sharing, and Analyzing Complex Information JULES J. BERMAN, Ph.D., M.D.
+
+## 2.4.0: Week 2: Summary
+
+    This week concentrated on identifying structured and unstructured data. Various sessions highlighted that Big data resources are mainly unstructured. These data objects must be identified and described and the sessions discussed methods for providing some structure to unstructured data using identifiers as well as thinking about the role of metadata and classification ontologies etc. for adding value to the various data objects. Appropriately qualified data objects will be the most valuable raw material for every data analysis.
+
+Even though the data objects are properly identified and qualified using metadata, there are still many challenges in ensuring and keeping the data quality unchanged. Next week will be concentrating on general principles of data collection, the need for standardisation and ensuring the immutability of the data as well as ensuring the adequacy.
