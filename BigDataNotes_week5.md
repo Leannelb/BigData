@@ -9,7 +9,7 @@ As you work through this week’s content, consider the following questions:
   1.  What is the difference between conscious and unconscious bias?
   2.  How can you identify unconscious biases in yourself and others in the team?
   3.  What unbiased ways are there to generate subsets?
-    Are there any ways not discussed here that you could utilise subsets in your analysis?
-    Are there any additional reason, not listed in the video, for big data systems failure?
+   4.  Are there any ways not discussed here that you could utilise subsets in your analysis?
+   5. Are there any additional reason, not listed in the video, for big data systems failure?
     What might be the extended impact on an organisation of a big data system failure?
     Are there any circumstances where failure of big data may have an effect on a wide population?
