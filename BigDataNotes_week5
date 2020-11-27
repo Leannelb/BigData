@@ -1,0 +1,15 @@
+# 5.0.0: Week 5 Introduction
+
+null Weekly Introduction
+
+Welcome to week 5! This week will focus on big data applications. We will start by looking at biases, exploring the effects of biases on big data analysis and discovering the techniques that can be implemented to avoid them. Next, we will look at the challenges in analysis when dealing with large datasets exploring how subsets can be implemented and utilised. Finally, this week we will investigate failures in big data including writing a report that analyses and identify the reasons for failure and ways in which they can be prevented.
+
+As you work through this week’s content, consider the following questions:
+
+    What is the difference between conscious and unconscious bias?
+    How can you identify unconscious biases in yourself and others in the team?
+    What unbiased ways are there to generate subsets?
+    Are there any ways not discussed here that you could utilise subsets in your analysis?
+    Are there any additional reason, not listed in the video, for big data systems failure?
+    What might be the extended impact on an organisation of a big data system failure?
+    Are there any circumstances where failure of big data may have an effect on a wide population?
