@@ -6,7 +6,7 @@ Welcome to week 5! This week will focus on big data applications. We will start 
 
 As you work through this week’s content, consider the following questions:
 
-    What is the difference between conscious and unconscious bias?
+  1.  What is the difference between conscious and unconscious bias?
     How can you identify unconscious biases in yourself and others in the team?
     What unbiased ways are there to generate subsets?
     Are there any ways not discussed here that you could utilise subsets in your analysis?
