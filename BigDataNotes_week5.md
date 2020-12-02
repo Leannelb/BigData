@@ -61,7 +61,7 @@ now beaten Everton
 - Does the
 fact that Liverpool beat Everton and Manchester beat Liverpool mean Manchester will beat
 Everton? 
- ### The answer is no. 
+ #### The answer is no. 
  - There are too many factors at play here. There are too many
 unknown variables. And it's not a true reflection of what's going to happen in the future.
 So, you cannot transfer one finding such as match one resulted in the outcome that
