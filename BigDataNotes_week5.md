@@ -35,12 +35,13 @@ of a university, and on that campus, we have 80% men and 20% women in that campu
 and campus two has 80% women and 20% men. When we then bring those datasets
 together, and feed them into our combined data set, our overall result would say that we
 have 50% men and 50% women.
-So, which of our statistics, which of our results here would actually give us the true
+## which of our statistics, which of our results here would actually give us the true
 reflection of the gender balance on campus? Some would say that the combined data set of
-50/50 is a reflection of the university as a whole, which it is.
-But depending on what question we asked, and depending on what we're actually analysing,
+- 50/50 is a reflection of the university as a whole, which it is.
+- But depending on what question we asked, and depending on what we're actually analysing,
 the important figure could be around campus one or subset one, or it could be around
-subset two or campus two. So, something that is true in a subset is not necessarily true
+subset two or campus two. So, 
+- something that is true in a subset is not necessarily true
 when you bring it together. And it works the same the other way, if we took the combined
 data set and then broke it down the other way, something that was true in the combined
 data set does not necessarily mean that it filters down to all of the subsets that you might
