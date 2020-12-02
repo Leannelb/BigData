@@ -54,10 +54,15 @@ Manchester United played Liverpool Football Club, and Manchester United won the 
 one to zero.
 -, Manchester United have beaten Liverpool i
 - following weekend, Liverpool
-go on to play against Everton Liverpool FC scoring to Everton scoring one. So, Liverpool has
-now beaten Everton week three Manchester United are going to play Everton. Does the
+go on to play against Everton Liverpool FC scoring to Everton scoring one. 
+- Liverpool has
+now beaten Everton
+-  week three Manchester United are going to play Everton. 
+- Does the
 fact that Liverpool beat Everton and Manchester beat Liverpool mean Manchester will beat
-Everton? The answer is no. There are too many factors at play here. There are too many
+Everton? 
+ ### The answer is no. 
+ - There are too many factors at play here. There are too many
 unknown variables. And it's not a true reflection of what's going to happen in the future.
 So, you cannot transfer one finding such as match one resulted in the outcome that
 Manchester United is better than Liverpool and match two resulted in Liverpool beingbetter than Everton does not necessarily mean that Manchester United are better than
