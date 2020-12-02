@@ -23,15 +23,15 @@ While you watch this lecture, reflect on the below questions.
     Are there any circumstances where failure of big data may have an effect on a wide population?
 
 # 5.1.1 Subsets
-Hi, today we're going to be talking about subsets and subsets of big data sets.
-So, we're going to start out by talking about the Simpsons paradox. So, Simpsons paradox
-has two elements to it. The first one is that data is not additive, and data sets are not
+- Simpsons paradox
+has two elements to it. 
+- data is not additive, and data sets are not
 additive.
-So, what do we mean by this? Essentially, what is true in a subset is not necessarily true
-when you bring that data back together. Let's take a look at an example and see if we can
-figure out what we mean here. So, if we took subset number one, let's say this is a campus
+-  Essentially, what is true in a subset is not necessarily true
+when you bring that data back together. 
+-  if we took subset number one, let's say this is a campus
 of a university, and on that campus, we have 80% men and 20% women in that campus.
-But we then have subset two. Subset two is of a different campus. So, we have campus two
+- But we then have subset two. Subset two is of a different campus. So, we have campus two
 and campus two has 80% women and 20% men. When we then bring those datasets
 together, and feed them into our combined data set, our overall result would say that we
 have 50% men and 50% women.
