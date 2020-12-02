@@ -47,11 +47,13 @@ data set and then broke it down the other way, something that was true in the co
 data set does not necessarily mean that it filters down to all of the subsets that you might
 create.
 The other side of Simpsons paradox is that data sets are also subsets also not transitive.
-So, what we mean by this is that you cannot infer a result of one test from another. If we
-look at this from the angle of a football match. During match one week, one of the season
+So, what we mean by this is that 
+- you cannot infer a result of one test from another
+-  match one week, one of the season
 Manchester United played Liverpool Football Club, and Manchester United won the game
 one to zero.
-So, Manchester United have beaten Liverpool in match to the following weekend, Liverpool
+-, Manchester United have beaten Liverpool i
+- following weekend, Liverpool
 go on to play against Everton Liverpool FC scoring to Everton scoring one. So, Liverpool has
 now beaten Everton week three Manchester United are going to play Everton. Does the
 fact that Liverpool beat Everton and Manchester beat Liverpool mean Manchester will beat
