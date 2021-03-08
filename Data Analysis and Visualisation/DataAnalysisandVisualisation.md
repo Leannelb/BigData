@@ -47,3 +47,33 @@ While you watch this lecture, reflect on the below questions.
 - This is partly the result of the way the language is built and partly the result of an extensive standard code library that comes with the Python distribution. A program to download a web page can be written in two or three lines!
 #### Syntax rules are very simple. 
 - Although becoming an expert Pythonista takes time and effort, even beginners can absorb enough Python syntax to write useful code quickly.
+
+
+      Python is a very expressive language. Expressive in this context means that a single line of Python code can do more than a single line of code in most other languages. The advantages of a more expressive language are obvious: the fewer lines of code you have to write, the faster you can complete the project. Not only that, but the fewer lines of code there are, the easier the program will be to maintain and debug.
+
+#### Indentation
+- Python’s main advantage in this department is its use of indentation. Unlike most languages, Python insists that blocks of code be indented.
+
+- Python, you should have everything you need to do real work, without the need to install additional libraries. 
+- This is why the Python standard library comes with modules for handling email, web pages, databases, operating system calls, GUI development, and more.
+
+For example, with Python, you can write a web server to share the files in a directory with just two lines of code:
+
+      import http.server
+      http.server.test(HandlerClass=http.server.SimpleHTTPRequestHandler)
+
+      
+Python is a modern, high-level language, with many features:
+
+Dynamic typing
+Simple, consistent syntax and semantics
+Multiplatform
+Well-planned design and evolution of features
+Highly modular
+Suited for both rapid development and large-scale programming
+Reasonably fast and easily extended with C or C++ modules for higher speeds
+Easy access to various GUI toolkits
+Built-in advanced features such as persistent object storage, advanced hash tables, expandable class syntax, universal comparison functions, and so forth
+Powerful included libraries such as numeric processing, image manipulation, user interfaces, web scripting, and others
+Supported by a dynamic Python community
+Can be integrated with a number of other languages to let you take advantage of the strengths of both while obviating their weaknesses
