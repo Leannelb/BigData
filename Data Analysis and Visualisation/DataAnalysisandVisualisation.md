@@ -39,3 +39,11 @@ While you watch this lecture, reflect on the below questions.
     Are there any circumstances where failure of big data may have an effect on a wide population?
 
 
+## BOOK NOTES
+### The Quick Python Book chapter 1
+#### Types are associated with objects, not variables. 
+- A variable can be assigned a value of any type, and a list can contain objects of many different types. This also means that type casting usually isn’t necessary, and your code isn’t locked into the straitjacket of predeclared types.
+####  Python typically operates at a much higher level of abstraction. 
+- This is partly the result of the way the language is built and partly the result of an extensive standard code library that comes with the Python distribution. A program to download a web page can be written in two or three lines!
+#### Syntax rules are very simple. 
+- Although becoming an expert Pythonista takes time and effort, even beginners can absorb enough Python syntax to write useful code quickly.
