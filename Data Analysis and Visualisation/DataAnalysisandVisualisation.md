@@ -77,3 +77,12 @@ Built-in advanced features such as persistent object storage, advanced hash tabl
 Powerful included libraries such as numeric processing, image manipulation, user interfaces, web scripting, and others
 Supported by a dynamic Python community
 Can be integrated with a number of other languages to let you take advantage of the strengths of both while obviating their weaknesses
+
+## IDLE Python shortcuts
+        Everything in your session is buffered. You can scroll or search up, place the cursor on any line, and press Enter (creating a hard return), and that line will be copied to the bottom of the screen, where you can edit it and then send it to the interpreter by pressing the Enter key again. Or, leaving the cursor at the bottom, you can toggle up and down through the previously entered commands using Alt-P and Alt-N. This will successively bring copies of the lines to the bottom. When you have the one you want, you can again edit it and then send it to the interpreter by pressing the Enter key. You can complete Python keywords or user-defined values by pressing Alt-/.
+
+## Python terminals
+### Windows search python3
+-  try pressing the up arrow key a few times. Notice how this recalls previous lines of Python code. You can use the left and right arrow keys to move backwards and forwards through a recalled line and can delete text or insert new text in the usual way.**
+### IDLE 
+- Try entering some Python code at the prompt to satisfy yourself that it behaves similarly to the interactive interpreter seen earlier. (One important difference is that you move through the history of previous lines using Alt+P and Alt+N instead of the up and down arrows). Now let’s edit and run the program created earlier. Choose Open... from IDLE’s File menu, or just press Ctrl+O. Navigate to your desired directory and double-click on hello.py to open it
