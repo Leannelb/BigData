@@ -4,7 +4,9 @@
 - by Connolly, T.M. and Begg, C.E. 
 - published 2014
 
-
+2. A Guide To SQL. 9th Ed. Course Technology: CENGAGE Learning
+- by Pratt, P.J. and Last, M.Z. 
+- published 2015 
 
 ## 4. Data Analysis and Visualisation
 ### Mar 2021
