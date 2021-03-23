@@ -25,5 +25,6 @@ Ceder (2018) The Quick Python Book. Third Edition, Manning Publications Co, Shel
 Suggested readings:
 
 4. Big Data Fundamentals, Concepts, Drivers & Techniques, Pearson, Chapter three.
+- Thomas Erl, Wajid Khattak, and Paul Buhler (2016) 
 Soraya Sedkaoui (2018) Data Analytics and Big Data, Wiley, Chapters one and four.
 Paul J. Deitel, and Harvey M. Deitel Introduction to Python for Computer Science and Data Science: Learning to Program with AI, Big Data and The Cloud, Pearson, New York.
