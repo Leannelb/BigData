@@ -117,3 +117,21 @@ Can be integrated with a number of other languages to let you take advantage of 
 - data clustered by an algorithm - 
 - generally used in data mining
 - differnet clusters formed for different algorithms used.
+- classifcation can be used to make better desistions on clusters
+- skattergraph provides visual representation of a scatter plot.
+    - visually identifies outliers (image: plot 2)
+- grouped using clustering
+- outlier detection
+    - identify differnt datasets from or incosistent from rest of dataset
+    - machine learning technique to identify anomolies, abnormaliteis 
+        - could identify risks or opportunites
+        - closely related to clustering
+        - fraud detectjon, sensor data analysis
+
+![image](week4_OveriviewOfOutliers.png)
+
+</br>
+
+### Read:  
+
+EMC. (2015) Data Science and Big Data Analytics: Discovering, Analyzing, Visualizing and Presenting Data. Wiley, Chapter three, section 3.3 to 3.3.3. (exclusive)
