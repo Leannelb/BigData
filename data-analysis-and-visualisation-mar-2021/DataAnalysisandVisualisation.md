@@ -86,3 +86,34 @@ Can be integrated with a number of other languages to let you take advantage of 
 -  try pressing the up arrow key a few times. Notice how this recalls previous lines of Python code. You can use the left and right arrow keys to move backwards and forwards through a recalled line and can delete text or insert new text in the usual way.**
 ### IDLE 
 - Try entering some Python code at the prompt to satisfy yourself that it behaves similarly to the interactive interpreter seen earlier. (One important difference is that you move through the history of previous lines using Alt+P and Alt+N instead of the up and down arrows). Now let’s edit and run the program created earlier. Choose Open... from IDLE’s File menu, or just press Ctrl+O. Navigate to your desired directory and double-click on hello.py to open it
+# Week 4
+![image](week4_typesOfDataandAnalytics.png)
+
+## Correltaion
+- is an analysis technique
+- says if 2 things are related
+- how close are they related
+    - how does var a increace in correlation with var b
+    - helps discover patterns and anaomolies
+- if they are correlated
+    - commonly used for data mining 
+    - can reveal the nature of a dataset
+    - aligned on a linear relationship
+        - this means when one var changes so does the other one also changes, proportionally and constantly
+        - expressed as a decimal between -1 and 1 - **correlation coeficent**
+        - strong to weak when moving from -1 to 0, or, +1 to 0
+
+**image**  <br/>
+**- first plot shows +1 correlation, strong positive (up) correlation between 2 variables** &nbsp; <br/>
+**- second plot shows 0 correlation, suggesting there is NO relationship (0) between 2 variables**  <br/>
+**- third plot shows -1 correlation, suggesting there is a strong negative (down) correlation between 2 variables**
+![image](week4_correclationcoefficent.png)
+**image <br/> linear and non linear regression**
+![image](week4_overviewOfRegressionAnalysis.png)
+
+### correlation does not emply causation.
+
+## clustering
+- data clustered by an algorithm - 
+- generally used in data mining
+- differnet clusters formed for different algorithms used.
