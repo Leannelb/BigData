@@ -142,3 +142,85 @@ Created from glyndwr-ebooks on 2021-03-30 11:46:38.
 
 Data Science and Big Data Analytics : Discovering, Analyzing, Visualizing and Presenting Data, edited by Education Services EMC, and Education Services, EMC, John Wiley & Sons, Incorporated, 2015. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/glyndwr-ebooks/detail.action?docID=1908952.
 Created from glyndwr-ebooks on 2021-03-30 11:44:32.
+</br></br></br>
+# week 4
+
+### Read EMC. (2015) Data Science and Big Data Analytics: Discovering, Analyzing, Visualizing and Presenting Data. Wiley, Chapter six.
+#### Advanced Analytical Theory and Methods: Regression
+</git br></br></br></br></br>
+# assignment week 4 euclidian disatance
+4.10: Assignment- Implementing Clustering Algorithms 
+Due Monday by 13:00 Points 15 Submitting a file upload
+icon Submission - Implementing the first two epochs of a Clustering Algorithm
+
+Based on what you have seen in previous lectures regarding seen various theories and methods for data analysis, you are going to focus on clustering in this exercise. As you have seen, In Clustering, data is divided into different groups so that the data in each group have similar properties. You have seen different measures to determine the similarities in the data properties. After developing this,  classification can be used to make better predictions about similar but new or unseen data.
+
+ 
+
+Task
+Step 1 (initialisation)
+
+In this task, you are going to use the K-means Clustering Algorithms and Euclidean distance to cluster 8 data records in a database into 3 clusters. The data records and the distance matrix based on the Euclidean distance are given below. For simplicity, the data records were already converted to x and y coordinates of a Cartesian Coordinate system. You must implement the K-means Clustering Algorithms and show by your calculation and hand plots only for two epochs  (or two rounds ) of the K-means Clustering Algorithms. In this step, you set the scene (initialisation).
+
+ 
+
+Data Records (data points)
+
+A1 = (2,10),
+
+A2 = (2,5),
+
+A3 = (8,4),
+
+A4 = (5,8),
+
+A5 = (7,5),
+
+A6 = (6,4),
+
+A7 = (1,2),
+
+A8 = (4,9).
+
+
+The distance matrix based on the Euclidean distance is given
+ 
+
+Here you are required to look at your data and try to understand them. Then suppose that the initial seeds (centres of each cluster) are located at A1, A4 and A7.
+
+ 
+
+First, draw a 10 by 10 space and plot all the 8 data points in it. Label each data point accordingly.
+Highlight the initial seeds with red in the above plot.
+From the above distance matrix, decide your initial 3 clusters (i.e. the examples belonging to each cluster) and show them by drawing a closed circle around them in your plot as we did it in the class.
+Step 2 (epoch 1 and 2)
+
+In this step, you are going to implement the k-means algorithm manually. It is important to do it once by hand before starting programming. Write a step by step algorithm for the k-means algorithm with its associated flow chart and then run it for 2 epochs only. During each epoch show:
+
+Your calculations
+The centres of your current cluster shown in your plot
+The new clusters are shown in your plot.
+The centres of the new clusters shown in your plot.
+Step 3.
+
+Answer the following question and continue your algorithm
+
+How many more iterations are needed to converge? Draw the final result for each epoch.
+
+ 
+
+Guidelines
+You should complete all requested tasks including calculations and plots with width concise description for this activity.
+
+ 
+
+This assignment should be submitted no later than 13:00 UK time on Monday of next week.  
+
+ 
+
+Please make sure that you correctly cite and reference all secondary sources used.
+
+ 
+
+Grading
+ 
