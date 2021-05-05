@@ -16,3 +16,34 @@ dotnet ef migrations remove -p Infrastructure -s API/ -c StoreContext
 ### 3. create a new migration
 dotnet ef migrations add InitialCreate -p Infrastructure -s API/ -o Data/Migrations -c StoreContext
 
+
+## Error on using subscribe, they have changed the format:
+### from:
+    saveUserAddress() {
+    this.accountService.updateUserAddress(this.checkoutForm.get('addressForm').value)
+        .subscribe(() => {
+            this.toastr.success('Address saved');
+        }, error => {
+            this.toastr.error(error.message);
+            console.log(error);
+        });
+    }
+
+### to:
+    .subscribe({
+        complete: () => { ... }, // completeHandler
+        error: () => { ... },    // errorHandler 
+        next: () => { ... },     // nextHandler
+        someOtherProperty: 42
+    });
+### so: 
+    saveUserAddress() {
+    this.accountService.updateUserAddress(this.checkoutForm.get('addressForm').value)
+        .subscribe({
+            complete: () => {this.toastr.success('Address saved')},
+            error: () => {
+                this.toastr.error(error.message);
+                console.log(error);
+            }
+        });
+    }
