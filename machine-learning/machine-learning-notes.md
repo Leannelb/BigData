@@ -25,3 +25,4 @@ Machine learning
     1.  Find intrinsic or hidden features of the data (i.e. inputs) that have no labelled output (or response)
 
     - plan approach for malta bs
+- 
