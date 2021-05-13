@@ -26,3 +26,14 @@ Machine learning
 
 # Matlab
 ![Arrays](arrays.png "Arrays")
+
+### Matlab array indexing
+- starts at 1 (not zero)
+- matrix indexing is x(row,col)
+    - so x(: , 3)
+    - refers to all values in the third row of the matrix
+
+### vectors indexing
+- vectors only have 1 index
+- because there 1D
+- they're not a matrix, just an array
