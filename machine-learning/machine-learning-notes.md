@@ -37,3 +37,5 @@ Machine learning
 - vectors only have 1 index
 - because there 1D
 - they're not a matrix, just an array
+
+### Supervised learning techniques
