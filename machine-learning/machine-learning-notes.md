@@ -39,3 +39,7 @@ Machine learning
 - they're not a matrix, just an array
 
 ### Supervised learning techniques
+1. Classification techniques
+    - predict descrite responses
+2. Regression techniques
+    - predict continuous responses
