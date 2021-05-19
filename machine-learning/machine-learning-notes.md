@@ -74,3 +74,44 @@ Machine learning
 - minority of data in training set - abnormal class
 3. Can be a slight to a severe inbalance
 4. Used in fraud detection, outlier detection and medical diagnosis
+
+# Classification Alogrithms
+## Week 2 - Lecture 3
+
+Many classification algorithms can be used to solve classification problems such as: 
+ 1. Urinary classification
+ 2. Binary classification 
+ 3. Multiclass classification
+ 4. Multilabel classification
+ 5. Imbalanced classification
+
+Common algorithms are: 
+1. Logistic Regression
+2. Support Vector Machine
+3. Discriminant Analysis
+4. Naieve Bayes
+5. k nearest neighbor
+
+### Logistic Regression
+- is NOT regression
+- It's a classification algorithm that shares a very similiar formula to linear regression
+- **Works by** using a logistic function to model a binary dependant variable i.e. binary classification
+    -   more advanced formulas for multiclass classification exist
+- often the start of Binary Classification
+    - data can be sepearated by a single linear boundary
+### SVM (Support vector Machine)
+- Classification alogrithm
+- Carries out classification by finding a linear decison boundary (or hyperplane)
+    - that seperates all instances of one class from another
+- e.g. for a 10,000 D dataset, SVM puts all feature vectors on an imaginary 10,000 D (dimention) plot and draw an imaginary line seperating the two classes
+- Optimum hyperplane for SVM classifcation model is when the data is linearly seperable 
+
+### SVM (Support vector Machine)
+- for non-linear seperable data, if the hyperplane cannot seperate data in a straight line, a hinge loss function is introduced to penalise data on the wrong side of the line
+- SVM classifier works well for high-dimentionality, non- lineaarly seperable data.
+- typically for binary classification
+- also used for multiclass classification
+    - technique callled error correcting output codes (ECOC)
+    - ECOC allows multiclass classificaiton to be reframed as binary classificaion
+    - One vs Rest: (OvR) splits multiclass into one binary problem per class
+    - One vs One (OvO) splits multiclass into one binary problem per each pair of classes
