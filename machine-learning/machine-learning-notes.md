@@ -15,8 +15,6 @@ Machine learning
 3. Computational Biology
     - DNA sequencing
 
-### How it works
-
 #### Supervised Learning
     
     1. A model is trained to accept an input and and output
