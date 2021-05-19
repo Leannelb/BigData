@@ -70,4 +70,7 @@ Machine learning
 ## Imbalanced classification
 1. The number of observations in each class is unequally distributed
 2. Generally can be modelled as binary classification tasks
-- majority of 
+- majority of data in training data set - belong to normal class
+- minority of data in training set - abnormal class
+3. Can be a slight to a severe inbalance
+4. Used in fraud detection, outlier detection and medical diagnosis
