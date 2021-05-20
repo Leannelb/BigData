@@ -122,3 +122,20 @@ Unary or one class classification (OCC) is used in many business cases, such as 
 Similarly, to OCC, Imbalanced classification has also been used in the financial sector with credit card fraud detection possible with this methodology [4]. It has also been applied to medical situations such as by using the random forest imbalanced classification technique to find features that define heroin users [5]. In fault detection of artificial intelligence (AI), a convolutional neural network (CNN) approach to imbalanced classification has been used to predict and reduce faults in AI [6]. 
 
 Both techniques can be helpful in classifying similar problems, the user must determine the best method for the task. Unary classification focuses on finding and identifying outliers in a training data set [7]. The large difference remains that in OCC data samples are from a single class which is known as the target class, to classify the data [8]. Whereas in imbalanced classification, there is more than one class. Usually, one class of data fits the majority, whilst the other fits to a minority class [9]. 
+
+Bibliography
+[1] G. Cohen, M. Hilario, H. Sax, S. Hugonnet, C. Pellegrini, and A. Geissbuhler, “An application of one-class support vector machine to nosocomial infection detection,” Studies in Health Technology and Informatics, vol. 107, no. Pt 1, pp. 716–720, 2004, Accessed: May 20, 2021. [Online]. Available: https://pubmed.ncbi.nlm.nih.gov/15360906/.
+
+[2] K. Kennedy, B. M. Namee, and S. J. Delany, “Low-Default Portfolio/One-Class Classification: A Literature Review,” Reports, Jan. 2009, Accessed: May 20, 2021. [Online]. Available: https://arrow.tudublin.ie/scschcomrep/4/.
+
+[3] H. J. Shin, D.-H. Eom, and S.-S. Kim, “One-class support vector machines—an application in machine fault detection and classification,” Computers & Industrial Engineering, vol. 48, no. 2, pp. 395–408, Mar. 2005, doi: 10.1016/j.cie.2005.01.009.
+[4] H. Zhu, G. Liu, M. Zhou, Y. Xie, A. Abusorrah, and Q. Kang, “Optimizing Weighted Extreme Learning Machines for imbalanced classification and application to credit card fraud detection,” Neurocomputing, vol. 407, pp. 50–62, Sep. 2020, doi: 10.1016/j.neucom.2020.04.078.
+
+[5] K. Kennedy, B. M. Namee, and S. J. Delany, “Low-Default Portfolio/One-Class Classification: A Literature Review,” Reports, Jan. 2009, Accessed: May 20, 2021. [Online]. Available: https://arrow.tudublin.ie/scschcomrep/4/.
+[6] A. Duan, L. Guo, H. Gao, X. Wu, and X. Dong, “Deep Focus Parallel Convolutional Neural Network for Imbalanced Classification of Machinery Fault Diagnostics,” IEEE Transactions on Instrumentation and Measurement, vol. 69, no. 11, pp. 8680–8689, Nov. 2020, doi: 10.1109/TIM.2020.2998233.
+
+[7] A. Garcia, Learning From Imbalanced Data Sets. Springer, 2018, p. 139.
+
+[8] M. He, J. D. Weir, T. Wu, A. Silva, D.-Y. Zhao, and W. Qian, “K Nearest Gaussian-A model fusion based framework for imbalanced classification with noisy dataset,” Artificial Intelligence Research, vol. 4, no. 2, Aug. 2015, doi: 10.5430/air.v4n2p126.
+
+[9] Q. Leng, H. Qi, J. Miao, W. Zhu, and G. Su, “One-Class Classification with Extreme Learning Machine,” Mathematical Problems in Engineering, vol. 2015, pp. 1–11, 2015, doi: 10.1155/2015/412957.
