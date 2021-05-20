@@ -118,3 +118,5 @@ Common algorithms are:
 2.7: Assignment 2 - Unary Classification and Imbalanced Classification
 
 Unary or one class classification (OCC) is used in many business cases, such as in the medical field for disease detection [1], the finance industry for credit scoring [2] and in the prediction of machine faults [3].
+
+Similarly, to OCC, Imbalanced classification has also been used in the financial sector with credit card fraud detection possible with this methodology [4]. It has also been applied to medical situations such as by using the random forest imbalanced classification technique to find features that define heroin users [5]. In fault detection of artificial intelligence (AI), a convolutional neural network (CNN) approach to imbalanced classification has been used to predict and reduce faults in AI [6]. 
