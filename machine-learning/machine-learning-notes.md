@@ -113,3 +113,6 @@ Common algorithms are:
     - ECOC allows multiclass classificaiton to be reframed as binary classificaion
     - One vs Rest: (OvR) splits multiclass into one binary problem per class
     - One vs One (OvO) splits multiclass into one binary problem per each pair of classes
+
+
+2.7: Assignment 2 - Unary Classification and Imbalanced Classification
