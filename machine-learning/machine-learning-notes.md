@@ -116,3 +116,5 @@ Common algorithms are:
 
 
 2.7: Assignment 2 - Unary Classification and Imbalanced Classification
+
+Unary or one class classification (OCC) is used in many business cases, such as in the medical field for disease detection [1], the finance industry for credit scoring [2] and in the prediction of machine faults [3].
