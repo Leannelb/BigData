@@ -149,5 +149,24 @@ Bibliography
 
 ### Linear regression
 - attempts to model relationship between 2 variables by fitting a linear equation to the observed data.
- - one variable is the explatory variable.
- - the other is the dependant variable
+    - one variable is the explatory variable.
+    - the other is the dependant variable
+    - e.g. predicting sales data from previous months sales data to predict future months sales data.
+- If the predictor variables are > 1, then it's multiple linear regression / multiple regression
+    - 2 or more explanatory variables
+    - financial inferance applications and econometrics
+
+![LinearRegression](linearRegression.png "Linear regression")
+
+
+### Non Linear Regression
+- 2 variables
+    - explanitory variable 
+- describes the non-linear relationship of data
+- models are generally assumed to be parametric (if the model is described as a nonlinear function)
+- when data or observation has strong non-linear trend with no ease of transformation into a linear space, non-linear regression models can then be used.
+    i.e. popuplation growth over time
+
+![nonlinearRegression](nonlinearRegression.png "Linear regression")
+
+
