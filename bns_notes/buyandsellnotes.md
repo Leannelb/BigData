@@ -11,6 +11,8 @@ dotnet ef migrations add InitialCreate -p Infrastructure -s API/ -o Data/Migrati
 dotnet ef database drop -p Infrastructure -s API/ -c StoreContext
 
 ### 2. remove migrations
+**from root folder /BasMigration**
+
 dotnet ef migrations remove -p Infrastructure -s API/ -c StoreContext
 
 ### 3. create a new migration

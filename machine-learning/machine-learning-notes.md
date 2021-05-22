@@ -115,7 +115,7 @@ Common algorithms are:
     - One vs One (OvO) splits multiclass into one binary problem per each pair of classes
 
 
-2.7: Assignment 2 - Unary Classification and Imbalanced Classification
+## 2.7: Assignment 2 - Unary Classification and Imbalanced Classification
 
 Unary or one class classification (OCC) is used in many business cases, such as in the medical field for disease detection [1], the finance industry for credit scoring [2] and in the prediction of machine faults [3].
 
@@ -139,3 +139,4 @@ Bibliography
 [8] M. He, J. D. Weir, T. Wu, A. Silva, D.-Y. Zhao, and W. Qian, “K Nearest Gaussian-A model fusion based framework for imbalanced classification with noisy dataset,” Artificial Intelligence Research, vol. 4, no. 2, Aug. 2015, doi: 10.5430/air.v4n2p126.
 
 [9] Q. Leng, H. Qi, J. Miao, W. Zhu, and G. Su, “One-Class Classification with Extreme Learning Machine,” Mathematical Problems in Engineering, vol. 2015, pp. 1–11, 2015, doi: 10.1155/2015/412957.
+
