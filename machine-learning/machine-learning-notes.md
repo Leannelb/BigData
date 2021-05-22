@@ -83,7 +83,7 @@ Many classification algorithms can be used to solve classification problems such
  4. Multilabel classification
  5. Imbalanced classification
 
-Common algorithms are: 
+# Common classification algorithms are: 
 1. Logistic Regression
 2. Support Vector Machine
 3. Discriminant Analysis
@@ -114,6 +114,8 @@ Common algorithms are:
     - One vs Rest: (OvR) splits multiclass into one binary problem per class
     - One vs One (OvO) splits multiclass into one binary problem per each pair of classes
 
+#
+
 
 ## 2.7: Assignment 2 - Unary Classification and Imbalanced Classification
 
@@ -140,3 +142,12 @@ Bibliography
 
 [9] Q. Leng, H. Qi, J. Miao, W. Zhu, and G. Su, “One-Class Classification with Extreme Learning Machine,” Mathematical Problems in Engineering, vol. 2015, pp. 1–11, 2015, doi: 10.1155/2015/412957.
 
+# Week 3 Classification
+
+## Regression in ML
+- In ML regression works by building a mathematical equation or relation that defines y (the target) as a funciton of x (the predictor)
+
+### Linear regression
+- attempts to model relationship between 2 variables by fitting a linear equation to the observed data.
+ - one variable is the explatory variable.
+ - the other is the dependant variable
