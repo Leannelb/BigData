@@ -169,4 +169,24 @@ Bibliography
 
 ![nonlinearRegression](nonlinearRegression.png "Linear regression")
 
+## Regression Algorithms - Lecture 2 Week 3
+Regression analysis
+1. Linear Regression
+2. Multiple linear regression
+3. Nonlinear analysis
+
+Common regression algorthms are: 
+1. Linear Regression
+2. Nonlinear Regression
+3. Gaussian Process Regression
+4. Suport Vector Machine (SVM) Regression
+5. Generalised Linear Model
+6. Decision Tree Model
+
+Decision trees 
+- can be used for classifcation and regression 
+- predicted by following decisions in the tree from begging (root) to a leaf node
+
+machine learning
+(5m https://wrexhamglyndwr.instructure.com/courses/741/pages/3-dot-3-lesson-2-common-regression-algorithms?module_item_id=41094)
 
