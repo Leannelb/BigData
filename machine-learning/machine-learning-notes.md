@@ -191,3 +191,80 @@ Decision trees
 (5m https://wrexhamglyndwr.instructure.com/courses/741/pages/3-dot-3-lesson-2-common-regression-algorithms?module_item_id=41094)
 
 # Week 4 Machine Learing
+## Applied unsupervised Learning.
+1. data that doesn't have labelled responses
+    - inputs only no outputs
+2. Usually Cluster analysis/clustering
+3. Data particitioned into clusters
+    - same cluster very similar, other clusters dissimilar
+
+### Hard Clustersing & Soft Clustering
+
+#### Hard Clustering
+1. Each data point belongs to only one cluster
+2. e.g. determine if a tweet is positive or negative
+    - **k-means v popular hard unsupervised clustering algorthm**
+    - k-medoids
+    - Heirachrichal clustering
+    - Self-Organising Map
+#### Soft Clustering
+1. Each data point belongs to many clusters
+    - **Fuzzy c-means v common soft unsupervised learning technique**
+    - Gaussian Mixture Model
+## Unsupervised Learning
+- Cluster analysis
+
+## Unsupevised Learning - Hard Clustering
+### K-means clustering
+1. Each data point belongs to one cluster
+2. Partion the data set into k number of mutually exclusive clusters
+3. How well data point fits into a cluster is determined by the distance. typically - Euclidean distance.
+4. Number of clusters specified a priori, beforehand
+5. **k is selected by an educated guess - that's all**
+
+#### How K-means works
+1. Decide k (number of clusters)
+2. Select k random points from the data as centroids
+3. Compute the distance of each datapoint to each centroid.
+4. Assign the nearest/closest cluster centroid to each data point
+5. Calcualte centroid of newly formed cluster and assign this as the new centroid
+6. Repeat steps 3 & 4.
+7. This is an iterative process & keeps running until the centroids of the newly formed clusters don't change or maximum number of iterations are reached.
+
+### K-medioids
+1. Very very similar to k means but the centroid is a data point, not random point
+2. Therefore there is a greater interpretability of the cluster centers than in k-means.
+
+![kmedoids](kmedoids.png "K medoids")
+
+#### K-medoids best used when: 
+- number of clusters is known
+- To scale large data sets
+- for fast clustering of catagorical data
+
+### Hierarchichal Clustering 
+- Premises on k-means 
+    - but dont have to predefine the number of K beforehand (clusters)
+- Builds nested sets of clusters by analysing similarities between pairs of datapoints and groups objects into a binary heierarchical tree.
+- It combines most similar clusters together & continues until only one cluster left
+
+It can be performed in 3 main ways
+1. Agglomerative heircical 
+2. Divisive Heirarchical Clustering
+    - if there are n datapoints
+    - all datapoints are assigned to a single cluster.
+
+### Self organising map (SOM)
+- transfers higher dimentions to lower dimentioins
+- Neural network based clustering algorithm that transforms a dataset to 2D, it is a dimentional reduciton method.
+- adoption of competive learning as opposed to error correction learning.
+
+### Fuzzy C-means soft clustering algorithm
+- fuzzy c means when # of clusters is known
+- soft-clustering algo
+- parition based for of clustering.
+
+## Gaussian Mixture model
+- Soft clustering algorithm
+- Partition based clustering algorithm
+- one multivariate normal distribution (Gaussian distribution) is used to model the probability density function.
