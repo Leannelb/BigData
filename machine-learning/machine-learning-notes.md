@@ -254,6 +254,7 @@ It can be performed in 3 main ways
     - if there are n datapoints
     - all datapoints are assigned to a single cluster.
 
+### Heirarchical C
 ### Self organising map (SOM)
 - transfers higher dimentions to lower dimentioins
 - Neural network based clustering algorithm that transforms a dataset to 2D, it is a dimentional reduciton method.
