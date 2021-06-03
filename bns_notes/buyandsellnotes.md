@@ -53,3 +53,4 @@ dotnet ef migrations add InitialCreate -p Infrastructure -s API/ -o Data/Migrati
 
  note:   this toaster is very helpful
 doing a new design up homepage done
+- next individual product
