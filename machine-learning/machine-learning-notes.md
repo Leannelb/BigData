@@ -269,3 +269,20 @@ It can be performed in 3 main ways
 - Soft clustering algorithm
 - Partition based clustering algorithm
 - one multivariate normal distribution (Gaussian distribution) is used to model the probability density function.
+
+## Reinforcement Learning
+1. Dont cluster or label data
+2. Find reward instead (or optimal outcome) with the use of an agent
+3. Used in financial industry in trading and equity
+4. Used in games - gets superhuman results sometimes
+5. In the terminology, the environment is everything - except the agent (or everything that exists outside the agent).
+6. The agent is a piece of software that learns from, interacts with and explores the environment
+7. Environment could be
+    - real
+    - simulated
+
+### The Agent in reinforcement learning
+1. is a piece of software that determines
+2. how to map the env & what actions to take
+3. Discovers which actions yeild best results by trying them out.
+
