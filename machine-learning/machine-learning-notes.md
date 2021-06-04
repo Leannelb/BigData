@@ -285,4 +285,35 @@ It can be performed in 3 main ways
 1. is a piece of software that determines
 2. how to map the env & what actions to take
 3. Discovers which actions yeild best results by trying them out.
+4. Agent takes inputs and maps them to outputs
+5. Reward helps reinforcement learning understand when the policy is getting better
+
+![agent_reinforcementLearning](agent_reinforcementLearning.png "agent_reinforcementLearning")
+
+### Reinforcement Algorithms
+1. Work by guiding the agents exploration or exploitation of the environment
+2. It's not always very obvious where to set the balance between these two.
+    - generatlly should start with more exploration and move to exploitation
+3. There are algorithms to help
+4. Depending on the agents knowledge of the enviorment, these algorithms can be grouped as
+    - model free or
+    - model based
+5. On- policy learning methods 
+    - aim to evaluate or improve the policy that is used to make decisions 
+    - example of an algorithm: Q-Learn 
+
+6. Off-policy learning methods
+    - evalualte or improve a policy different from the one that was used to generate the data.
+    - example of an algorithm: SARSA (State action reward state action)
+
+#### Q Learn
+- can identify an optimal action-selection policy for any given FMDP
+
+Policy Iteration
+- policy evaluation
+- policy improvment
+    - keeps iterating until convergence
+
+Value Iteration
+- 
 
