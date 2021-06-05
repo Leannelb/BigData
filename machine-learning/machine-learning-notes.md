@@ -318,3 +318,4 @@ Value Iteration
 - 
 -youtube video background created
 - logo created
+- thumbnail to be created
