@@ -320,3 +320,4 @@ Value Iteration
 - logo created
 - thumbnail to be created
 - created thumbnail
+- uploaded background
